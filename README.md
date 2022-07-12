@@ -17,6 +17,7 @@ I have received my Bachelor's of *Information Science and Culture* and *Western 
 ### Research
 #### Publications
 - [TODO]
+
 ### Work Experience
 - Data Marketing Internship at VAIV Company(former DaumSoft)
 
