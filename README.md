@@ -10,6 +10,9 @@ I'm a Master's candidate in the [Graduate School of Data Science](https://gsds.s
 I received my BA in Information Science and Culture and BA in Western History in [Seoul National University](https://en.snu.ac.kr/). I'm currently pursuing MS in Data Science in **Seoul National University**.
 
 ### Programming Languages
+- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `Python`
+- ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `R`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `SQL`
 ```markdown
 #Most of the time, I use
 - Python
