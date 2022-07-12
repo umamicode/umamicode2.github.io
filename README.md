@@ -24,5 +24,5 @@ I received my BA in Information Science and Culture and BA in Western History in
 - Data Marketing Internship at **VAIV Company** (former DaumSoft): Data-driven Marketing Projects for DaumSoft using Sentiment Analysis. 
 
 ### Projects
-- Industry-University partnership research on <Stock Interrelation Research using Keyword and Supply Chain data> with ** NH Investment & Securities X Seoul National University **
+- Industry-University partnership research on <Stock Interrelation Research using Keyword and Supply Chain data> with **NH Investment** & **Securities** X Seoul National University **
 - An upcoming Research-Oriented Causal NLP Project with **LG AI Research**
