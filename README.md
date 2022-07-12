@@ -1,6 +1,6 @@
 ## Matthew DongKyu Cho
 
-I'm a Master's candidate in the [Graduate School of Data Science](https://gsds.snu.ac.kr/) at Seoul National University, under the supervision of Professor Sanghack Lee. My field of interests include : **Causality, Representation Learning**, and **Active Learning**. 
+I'm a Master's candidate in the [Graduate School of Data Science](https://gsds.snu.ac.kr/) at Seoul National University, under the supervision of Professor [Sanghack Lee](https://www.sanghacklee.me/). My field of interests include : **Causality, Representation Learning**, and **Active Learning**. 
 
 ### Education
 
@@ -16,7 +16,7 @@ I have received my Bachelor's of *Information Science and Culture* and *Western 
 
 ### Research
 #### Publications
-
+- [TODO]
 ### Work Experience
 - Data Marketing Internship at VAIV Company(former DaumSoft)
 
