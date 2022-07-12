@@ -22,4 +22,4 @@ I have received my Bachelor's of *Information Science and Culture* and *Western 
 
 ### Projects
 - Industry-University partnership research on <Stock Interrelation Research using Keyword and Supply Chain data> with NH Investment & Securities X Seoul National University
-- An upcoming Research Oriented Project with LG AI Research
+- An upcoming Research-Oriented Project with LG AI Research
