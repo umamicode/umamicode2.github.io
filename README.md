@@ -21,5 +21,5 @@ I have received my Bachelor's of *Information Science and Culture* and *Western 
 - Data Marketing Internship at VAIV Company(former DaumSoft)
 
 ### Projects
-- Industry-University partnership on <Stock Interrelation Research using Keyword and Supply Chain data> (NH Investment & Securities X Seoul National University)
-- [Work in Progress] Research Oriented Project with LG AI Research
+- Industry-University partnership research on <Stock Interrelation Research using Keyword and Supply Chain data> with NH Investment & Securities X Seoul National University
+- An upcoming Research Oriented Project with LG AI Research
