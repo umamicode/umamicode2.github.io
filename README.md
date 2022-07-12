@@ -4,7 +4,7 @@ I'm a Master's candidate in the [Graduate School of Data Science](https://gsds.s
 
 ### Education
 
-I have completed my Bachelor's Degree of {Information Science and Culture, Western History} in Seoul National University. I'm currently pursuing my Master's Degree of Data Science in Seoul National University.
+I have completed my Bachelor's Degree of {*Information Science and Culture*, *Western History*} in Seoul National University. I'm currently pursuing my Master's Degree of *Data Science* in Seoul National University.
 
 ### Languages
 
@@ -19,4 +19,7 @@ Most of the time, I use
 ### Research
 #### Publications
 
+### Work Experience
+
 ### Projects
+- Industry-University partnership on <Stock Interrelation Research using Keyword and Supply Chain data> (NH Investment & Securities X Seoul National University)
