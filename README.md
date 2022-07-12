@@ -19,8 +19,8 @@ I received my Bachelor's of *Information Science and Culture* and *Western Histo
 - [TODO]
 
 ### Work Experience
-- Data Marketing Internship at VAIV Company(former DaumSoft)
+- Data Marketing Internship at VAIV Company (former DaumSoft)
 
 ### Projects
 - Industry-University partnership research on <Stock Interrelation Research using Keyword and Supply Chain data> with NH Investment & Securities X Seoul National University
-- An upcoming Research-Oriented Project with LG AI Research
+- An upcoming Research-Oriented Causal NLP Project with LG AI Research
