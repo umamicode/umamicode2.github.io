@@ -4,7 +4,7 @@ I'm a Master's candidate in the [Graduate School of Data Science](https://gsds.s
 
 ### Education
 
-I received my Bachelors of *Information Science and Culture* and *Western History* in Seoul National University. I'm currently pursuing MS of *Data Science* in Seoul National University.
+I received my BA in Information Science and Culture and BA in Western History in [Seoul National University](https://en.snu.ac.kr/). I'm currently pursuing MS in Data Science in Seoul National University.
 
 ### Programming Languages
 ```markdown
@@ -19,7 +19,7 @@ I received my Bachelors of *Information Science and Culture* and *Western Histor
 - [TODO]
 
 ### Work Experience
-- Data Marketing Internship at VAIV Company (former DaumSoft)
+- Data Marketing Internship at VAIV Company (former DaumSoft): Data-driven Marketing Projects for DaumSoft using Sentiment Analysis. 
 
 ### Projects
 - Industry-University partnership research on <Stock Interrelation Research using Keyword and Supply Chain data> with NH Investment & Securities X Seoul National University
