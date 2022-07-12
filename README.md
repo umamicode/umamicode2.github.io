@@ -4,7 +4,7 @@ I'm a Master's candidate in the [Graduate School of Data Science](https://gsds.s
 
 ### Education
 
-I have received my Bachelor's of *Information Science and Culture* and *Western History* in Seoul National University. I'm currently pursuing MS of *Data Science* in Seoul National University.
+I received my Bachelor's of *Information Science and Culture* and *Western History* in Seoul National University. I'm currently pursuing MS of *Data Science* in Seoul National University.
 
 ### Programming Languages
 ```markdown
