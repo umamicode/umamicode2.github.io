@@ -14,7 +14,10 @@ I received my BA in Information Science and Culture and BA in Western History in
 #Most of the time, I use
 - Python
 - R 
-- SQL 
+- SQL
+- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `Python`
+- ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `R`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `SQL`
 ```
 
 ### Research
