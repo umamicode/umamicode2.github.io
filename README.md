@@ -10,8 +10,8 @@ I'm a Master's candidate in the [Graduate School of Data Science](https://gsds.s
 Most of the time, I use
 
 - Python for Model Building(e.g Pytorch, Pandas etc.) 
-- 'R' for EDA
-- 'SQL' for Database Management(e.g PostgreSQL, NOSQL)
+- R for EDA
+- SQL for Database Management(e.g PostgreSQL, NOSQL)
 
 
 [Link]([url](https://github.com/umamicode)) and ![Image](src)
