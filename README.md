@@ -10,7 +10,7 @@ I have completed my Bachelor's Degree of {*Information Science and Culture*, *We
 
 
 ```markdown
-Most of the time, I use
+#Most of the time, I use
 - Python for Model Building
 - R for EDA
 - SQL for Database Management
