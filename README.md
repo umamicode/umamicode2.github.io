@@ -4,24 +4,17 @@ I'm a Master's candidate in the [Graduate School of Data Science](https://gsds.s
 
 You can use the [editor on GitHub](https://github.com/umamicode/umamicode.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Languages
+
+Most of the times, I use 
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Python
+2. R
 
 **Bold** and _Italic_ and `Code` text
 
