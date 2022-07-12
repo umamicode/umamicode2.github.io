@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Matthew DongKyu Cho
+
+I'm a Master's candidate in the [Graduate School of Data Science](https://gsds.snu.ac.kr/) at Seoul National University, under the supervision of Professor Sanghack Lee. My field of interests include : **Causality, Representation Learning**, and **Active Learning**. 
 
 You can use the [editor on GitHub](https://github.com/umamicode/umamicode.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
