@@ -12,7 +12,7 @@ You can use the [editor on GitHub](https://github.com/umamicode/umamicode.github
 ```markdown
 Most of the time, I use
 
-- 'Python' for Model Building(e.g Pytorch, Pandas etc.) 
+- **Python** for Model Building(e.g Pytorch, Pandas etc.) 
 - 'R' for EDA
 - 'SQL' for Database Management(e.g PostgreSQL, NOSQL)
 
