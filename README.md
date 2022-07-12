@@ -18,6 +18,9 @@ I received my BA in Information Science and Culture and BA in Western History in
 
 ### Research
 #### Publications
+##### Submitted
+- [TODO]
+##### Working Papers
 - [TODO]
 
 ### Work Experience
