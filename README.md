@@ -14,12 +14,13 @@ Most of the time, I use
 - Python for Model Building
 - R for EDA
 - SQL for Database Management
-[Link]([url](https://github.com/umamicode)) and ![Image](src)
 ```
+
 ### Research
 #### Publications
 
 ### Work Experience
+- Data Marketing Internship at VAIV Company(former DaumSoft)
 
 ### Projects
 - Industry-University partnership on <Stock Interrelation Research using Keyword and Supply Chain data> (NH Investment & Securities X Seoul National University)
