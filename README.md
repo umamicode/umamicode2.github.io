@@ -12,9 +12,9 @@ You can use the [editor on GitHub](https://github.com/umamicode/umamicode.github
 ```markdown
 Most of the time, I use
 
-1. 'Python' for Model Building(e.g Pytorch, Pandas etc.) 
-2. 'R' for EDA
-3. 'SQL' for Database Management(e.g PostgreSQL, NOSQL)
+- 'Python' for Model Building(e.g Pytorch, Pandas etc.) 
+- 'R' for EDA
+- 'SQL' for Database Management(e.g PostgreSQL, NOSQL)
 
 
 [Link](url) and ![Image](src)
