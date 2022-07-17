@@ -31,8 +31,8 @@ I received my BA in Information Science and Culture and BA in Western History in
 1. Industry-University partnership research on <Stock Interrelation Research using Keyword and Supply Chain data> with **NH Investment&Securities**
 <figure>
     <img src="https://github.com/umamicode/umamicode.github.io/blob/main/nh_project.png?raw=true"
-         alt="Albuquerque, New Mexico">
-    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+         alt="An image of the final product with NHIS">
+    <figcaption></figcaption>
 </figure>
 
 2. An upcoming Research-Oriented Causal NLP Project with **LG AI Research**
