@@ -29,10 +29,8 @@ I received my BA in Information Science and Culture and BA in Western History in
 
 ### Projects
 1. Industry-University partnership research on <Stock Interrelation Research using Keyword and Supply Chain data> with **NH** **Investment&Securities**
-<figure>
-    <img src="https://github.com/umamicode/umamicode.github.io/blob/main/nh_project.png?raw=true"
-         alt="A graph data display of the extracted keyword">
-    <figcaption></figcaption>
-</figure>
+"https://github.com/umamicode/umamicode.github.io/blob/main/nh_project.png?raw=true"
+<center><img src="nh_project.png" width="50%" height="50%"></center>
+
 
 2. An upcoming Research-Oriented Causal NLP Project with **LG AI Research**
