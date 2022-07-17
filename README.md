@@ -28,7 +28,7 @@ I received my BA in Information Science and Culture and BA in Western History in
 - Data Marketing Internship at **VAIV Company** (former DaumSoft): Data-driven Marketing Projects for DaumSoft using Sentiment Analysis. 
 
 ### Projects
-- Industry-University partnership research on <Stock Interrelation Research using Keyword and Supply Chain data> with **NH** **Investment&Securities** <br />
+- Industry-University partnership research on <Stock Interrelation Research using Keyword and Supply Chain data> with **NHIS** <br />
   
 <center><img src="https://github.com/umamicode/umamicode.github.io/blob/main/nh_project.png?raw=true" width="50%" height="50%"></center>
 
