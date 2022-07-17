@@ -29,4 +29,6 @@ I received my BA in Information Science and Culture and BA in Western History in
 
 ### Projects
 - Industry-University partnership research on <Stock Interrelation Research using Keyword and Supply Chain data> with **NH Investment&Securities**
+  ![NH Project](./nh_project.png)
+
 - An upcoming Research-Oriented Causal NLP Project with **LG AI Research**
