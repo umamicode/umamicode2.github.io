@@ -25,7 +25,7 @@ I received my BA in Information Science and Culture and BA in Western History in
 - [TODO]
 
 ### Work Experience
-- Data Marketing Internship at **VAIV Company** (former DaumSoft): Data-driven Marketing Projects for DaumSoft using Sentiment Analysis. 
+- Data Marketing Internship at [VAIV Company](http://vaiv.kr/) (former DaumSoft): Data-driven Marketing Projects for DaumSoft using Sentiment Analysis. 
 
 ### Projects
 - Industry partnership research on **"Stock Interrelation Research using Keyword and Supply Chain data"** with [NH Investment & Securities](https://www.nhqv.com/) <br /> 
