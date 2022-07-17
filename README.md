@@ -28,7 +28,11 @@ I received my BA in Information Science and Culture and BA in Western History in
 - Data Marketing Internship at **VAIV Company** (former DaumSoft): Data-driven Marketing Projects for DaumSoft using Sentiment Analysis. 
 
 ### Projects
-- Industry-University partnership research on <Stock Interrelation Research using Keyword and Supply Chain data> with **NH Investment&Securities**
-  ![NH Project](./nh_project.png)
+1. Industry-University partnership research on <Stock Interrelation Research using Keyword and Supply Chain data> with **NH Investment&Securities**
+<figure>
+    <img src="nh_project.jpg"
+         alt="Albuquerque, New Mexico">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
 
-- An upcoming Research-Oriented Causal NLP Project with **LG AI Research**
+2. An upcoming Research-Oriented Causal NLP Project with **LG AI Research**
