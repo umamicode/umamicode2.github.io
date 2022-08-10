@@ -1,6 +1,6 @@
 ## Matthew DongKyu Cho
 
-I'm a Master's candidate in the [Graduate School of Data Science](https://gsds.snu.ac.kr/) at Seoul National University, under the supervision of Professor [Sanghack Lee](https://www.sanghacklee.me/). My field of interests include : **Causal Inference, Representation Learning**, and **Active Learning**. 
+I'm a Master's candidate in the [Graduate School of Data Science](https://gsds.snu.ac.kr/) at Seoul National University, under the supervision of Professor [Sanghack Lee](https://www.sanghacklee.me/). My field of interests include : **Causal Inference, Representation Learning**, and **Transfer Learning**. 
 
 - [Linkedin](https://www.linkedin.com/in/dong-kyu-cho-023259176/)
 - [Github](https://github.com/umamicode)
@@ -11,6 +11,8 @@ I received my BA in Information Science and Culture and BA in Western History in
 
 
 ### Research
+
+I'm interested in explaining the Transferability of ML models through the eyes of causality. 
 #### Publications
 ##### Submitted
 - [TODO]
