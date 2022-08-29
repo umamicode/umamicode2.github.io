@@ -22,6 +22,7 @@ I'm interested in explaining the Transferability of ML models through the eyes o
 
 ### Work Experience
 - Data Marketing Internship at [VAIV Company](http://vaiv.kr/) (former DaumSoft): Data-driven Marketing Projects for DaumSoft using Sentiment Analysis. 
+- TA for [Machine Learning and Deep Learning for Data Science II](https://gsds.snu.ac.kr/mldl2/) and [Big Data and Knowledge Management Systems II](https://gsds.snu.ac.kr/bkms2/)
 
 ### Projects
 - Industry partnership research on **"Stock Interrelation Research using Keyword and Supply Chain data"** with [NHQV (NH Investment & Securities)](https://www.nhqv.com/) <br /> 
