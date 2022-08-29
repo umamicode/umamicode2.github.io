@@ -28,4 +28,4 @@ I received my BA in Information Science and Culture and BA in Western History in
   <center><img src="https://github.com/umamicode/umamicode.github.io/blob/main/nh_project.png?raw=true" width="70%" height="70%"></center>
 
 
-- (July 2022 ~ Present) A Research-Oriented Causal NLP Project with [LG AI Research](https://www.lgresearch.ai/)
+- (July 2022 ~ Present) A Causal NLP Project with [LG AI Research](https://www.lgresearch.ai/)
