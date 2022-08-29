@@ -19,6 +19,7 @@ I'm interested in explaining the Transferability of ML models through the eyes o
 
 ##### Working Papers
 - [TODO]
+- (Work In Progress) "Revisiting Style-Content Disentanglement for Domain Shift from Causal Invariance Principle"
 
 ### Work Experience
 - Data Marketing Internship at [VAIV Company](http://vaiv.kr/) (former DaumSoft): Data-driven Marketing Projects for DaumSoft using Sentiment Analysis. 
