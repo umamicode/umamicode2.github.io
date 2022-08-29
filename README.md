@@ -11,14 +11,12 @@ I received my BA in Information Science and Culture and BA in Western History in
 
 
 ### Research
-
-I'm interested in interpreting ML with a causal perspective.
+  
 #### Publications
 ##### Submitted
 - [TODO]
 
 ##### Working Papers
-- [TODO]
 - (Work In Progress) "Revisiting Style-Content Disentanglement for Domain Shift from Causal Invariance Principle"
 
 ### Work Experience
@@ -26,8 +24,8 @@ I'm interested in interpreting ML with a causal perspective.
 - TA(Teaching Assistant) for [Machine Learning and Deep Learning for Data Science II ((2022-Fall)](https://gsds.snu.ac.kr/mldl2/), [Big Data and Knowledge Management Systems II ((2022-Fall))](https://gsds.snu.ac.kr/bkms2/) and Data Science BootCamp(2021-Winter, 2022-Summer)
 
 ### Projects
-- (2021.07 ~2022.07) Industry partnership research on **"Stock Interrelation Research using Keyword and Supply Chain data"** with [NHQV (NH Investment & Securities)](https://www.nhqv.com/). We built a domain-adapted Language Model and its applicable pipeline using large scale Financial Corpus. <br /> 
+- (July 2021 ~ July 2022) Industry partnership research on **"Stock Interrelation Research using Keyword and Supply Chain data"** with [NHQV (NH Investment & Securities)](https://www.nhqv.com/). We built a domain-adapted Language Model and its applicable pipeline using large scale Financial Corpus. <br /> 
   <center><img src="https://github.com/umamicode/umamicode.github.io/blob/main/nh_project.png?raw=true" width="70%" height="70%"></center>
 
 
-- (2022.07 ~ Work in Progress) An upcoming Research-Oriented Causal NLP Project with [LG AI Research](https://www.lgresearch.ai/)
+- (July 2022 ~ Present) A Research-Oriented Causal NLP Project with [LG AI Research](https://www.lgresearch.ai/)
