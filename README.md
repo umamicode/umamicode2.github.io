@@ -15,7 +15,7 @@ I received my BA in Information Science and Culture and BA in Western History in
 #### Publications
 ##### Submitted
 ##### Working Papers
-- (Work In Progress) "Revisiting Style-Content Disentanglement for Domain Shift from Causal Invariance Principle"
+- (Work In Progress) 
 
 ### Work Experience
 - Data Marketing Internship at [VAIV Company](http://vaiv.kr/) (former DaumSoft): Data-driven Marketing Projects for DaumSoft using Sentiment Analysis. 
