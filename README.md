@@ -5,6 +5,9 @@ I'm a Master's candidate in the [Graduate School of Data Science](https://gsds.s
 - [Linkedin](https://www.linkedin.com/in/dong-kyu-cho-023259176/)
 - [Github](https://github.com/umamicode)
 
+Here's a more formal version of my CV.
+- [CV](https://github.com/umamicode/umamicode.github.io/blob/main/CV_DKCHO.pdf)
+
 ### Education
 
 I received my BA in Information Science and Culture and BA in Western History in [Seoul National University](https://en.snu.ac.kr/). I'm currently pursuing MS in Data Science in **Seoul National University**.
