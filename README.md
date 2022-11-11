@@ -30,4 +30,3 @@ I received my BA in Information Science and Culture and BA in Western History in
 
 
 - (July 2022 ~ Present) A Causal NLP Project with [LG AI Research](https://www.lgresearch.ai/)
-- (September 2022 ~ Present) Self-Motivated AI Project with [Ministry of Science and ICT](https://www.msit.go.kr/), [IITP](https://www.iitp.kr/main.it)
