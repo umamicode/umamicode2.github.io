@@ -1,6 +1,6 @@
 ## Matthew DongKyu Cho
 
-I'm a Master's candidate in the [Graduate School of Data Science](https://gsds.snu.ac.kr/) at Seoul National University, under the supervision of Professor [Sanghack Lee](https://www.sanghacklee.me/). My field of interests include : **Causal Inference, and Representation Learning**. A big fan of History👨🏻‍🏫,Jazz🎷, and Doritos🔥.  
+I'm a Master's candidate in the [Graduate School of Data Science](https://gsds.snu.ac.kr/) at Seoul National University, under the supervision of Professor [Sanghack Lee](https://www.sanghacklee.me/). My field of interests include : **Causal Inference, Representation Learning, Domain Generalization**. A big fan of History👨🏻‍🏫, Jazz🎷, and Doritos🔥.  
 
 - [Linkedin](https://www.linkedin.com/in/dong-kyu-cho-023259176/)
 - [Github](https://github.com/umamicode)
@@ -29,4 +29,4 @@ I received my BA in Information Science and Culture and BA in Western History in
   <center><img src="https://github.com/umamicode/umamicode.github.io/blob/main/nh_project.png?raw=true" width="70%" height="70%"></center>
 
 
-- (July 2022 ~ Present) A Causal NLP Project with [LG AI Research](https://www.lgresearch.ai/)
+- (July 2022 ~ Present) A Causal NLP Project on **(Working Title)"Towards Language Models Capable of Causal Reasoning"** with [LG AI Research](https://www.lgresearch.ai/)
