@@ -22,7 +22,7 @@ I received my BA in Information Science and Culture and BA in Western History in
 
 ### Work Experience
 - Data Marketing Internship at [VAIV Company](http://vaiv.kr/) (former DaumSoft): Data-driven Marketing Projects for DaumSoft using Sentiment Analysis. 
-- TA(Teaching Assistant) for [Machine Learning and Deep Learning for Data Science II ((2022-Fall)](https://gsds.snu.ac.kr/mldl2/), [Big Data and Knowledge Management Systems II ((2022-Fall))](https://gsds.snu.ac.kr/bkms2/) and Data Science BootCamp(2021-Winter, 2022-Summer)
+- TA(Teaching Assistant) for [Machine Learning and Deep Learning for Data Science II ((2022-Fall)](https://gsds.snu.ac.kr/mldl2/), [Big Data and Knowledge Management Systems II ((2022-Fall))](https://gsds.snu.ac.kr/bkms2/), Data Science BootCamp(2021-Winter, 2022-Summer), and Causal Inference for Data Science(2023-Spring)
 
 ### Projects
 - (July 2021 ~ July 2022) Industry partnership research on **"Stock Interrelation Research using Keyword and Supply Chain data"** with [NHQV (NH Investment & Securities)](https://www.nhqv.com/). We built a domain-adapted Language Model and its applicable pipeline using large scale Financial Corpus. <br /> 
