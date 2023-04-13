@@ -10,15 +10,15 @@ Here's a more formal version of my CV.
 
 ### Education
 
-I received my BA in Information Science and Culture and BA in Western History in [Seoul National University](https://en.snu.ac.kr/). I'm currently pursuing MS in Data Science in [Seoul National University](https://gsds.snu.ac.kr/).
+I received my BA in Information Science and Culture and BA in Western History in [Seoul National University](https://en.snu.ac.kr/). I'm currently pursuing MS in Data Science in [Seoul National University](https://gsds.snu.ac.kr/). 
 
 
 ### Research
-  
 #### Publications
 ##### Submitted
 ##### Working Papers
-- (Work In Progress) 
+- (Work In Progress) Leveraging Style-Content Disentanglement for single source domain generalization with Causal mechanisms
+- (Work In Progress) PROF: Progressive mutual information Regularization for Online distillation of Frozen oracle models
 
 ### Work Experience
 - Data Marketing Internship at [VAIV Company](http://vaiv.kr/) (former DaumSoft): Data-driven Marketing Projects for DaumSoft using Sentiment Analysis. 
