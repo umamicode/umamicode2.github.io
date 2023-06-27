@@ -1,6 +1,6 @@
 ## Matthew DongKyu Cho
 
-I'm a Master's candidate in the [Graduate School of Data Science](https://gsds.snu.ac.kr/) at Seoul National University, under the supervision of Professor [Sanghack Lee](https://www.sanghacklee.me/). My field of interests include : **Causal Representation Learning, Domain Generalization**. A big fan of History👨🏻‍🏫, Jazz🎷, and Doritos🔥.  
+I'm a Master's student in the [Graduate School of Data Science](https://gsds.snu.ac.kr/) at Seoul National University, under the supervision of Professor [Sanghack Lee](https://www.sanghacklee.me/). My field of interests include : **Causal Representation Learning, Domain Generalization**. A big fan of History👨🏻‍🏫, Jazz🎷, and Doritos🔥.  
 
 - [Linkedin](https://www.linkedin.com/in/dong-kyu-cho-023259176/)
 - [Github](https://github.com/umamicode)
@@ -21,6 +21,7 @@ I received my BA in Information Science and Culture and BA in Western History in
 - (Work In Progress) DELPHI: Leveraging Self Knowledge as Teachers for Out-of-domain Robustness  
 
 ### Work Experience
+- Research Internship at [LG AI Research](https://www.lgresearch.ai/), Data Intelligence Lab
 - Data Marketing Internship at [VAIV Company](http://vaiv.kr/) (former DaumSoft): Data-driven Marketing Projects for DaumSoft using Sentiment Analysis. 
 - TA(Teaching Assistant) for [Machine Learning and Deep Learning for Data Science II ((2022-Fall)](https://gsds.snu.ac.kr/mldl2/), [Big Data and Knowledge Management Systems II ((2022-Fall))](https://gsds.snu.ac.kr/bkms2/), Data Science BootCamp(2021-Winter, 2022-Summer), and Causal Inference for Data Science(2023-Spring)
 
